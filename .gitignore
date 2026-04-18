@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# Build artifacts
+dnspcap
+*.exe
+
+# Local network config (contains MAC/IP; regenerate with ./probe.sh)
+config.txt
+
+# Submission artifacts
+report/
+Федянин_задача3.doc
