@@ -8,6 +8,7 @@ dnspcap
 # Local network config (contains MAC/IP; regenerate with ./probe.sh)
 config.txt
 
-# Submission artifacts
+# Local notes / reports
 report/
-Федянин_задача3.doc
+*.doc
+*.docx
